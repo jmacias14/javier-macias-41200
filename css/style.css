@@ -8,5 +8,6 @@
 
 
 body{
-	background-color: chartreuse;
+background: rgb(0,249,255);
+background: linear-gradient(90deg, rgba(0,249,255,1) 0%, rgba(1,255,0,1) 100%);
 }
